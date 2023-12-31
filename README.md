@@ -10,9 +10,10 @@
 <p align="center">
     <img id="preview" src="https://komarev.com/ghpvc/?username=vladudenis&color=grey">
 </p>
-
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladudenis&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladudenis&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
-| ------------- | ------------- |
+<p align="center">
+    <a href="https://github.com/vladudenis"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=vladudenis@show_icons=true&theme=radical&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+    <a href="https://github.com/vladudenis"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladudenis&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+</p>
 
 <!--
 ### Using ⚙️
