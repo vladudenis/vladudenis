@@ -11,7 +11,7 @@
     <img id="preview" src="https://komarev.com/ghpvc/?username=vladudenis&color=grey">
 </p>
 <p align="center">
-    <a href="https://github.com/vladudenis"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=vladudenis&show_icons=true&theme=radical&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+    <a href="https://github.com/vladudenis"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=vladudenis&show_icons=true&theme=radical&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
     <a href="https://github.com/vladudenis"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladudenis&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
 </p>
 
