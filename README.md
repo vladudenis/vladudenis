@@ -31,6 +31,7 @@
     </div>
     <div>
         <code><a href="https://www.java.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
+        <code><a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img height="50" src="https://github.com/detain/svg-logos/blob/master/svg/g/golang-1.svg"></a></code>
         <code><a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img height="50" src="https://github.com/detain/svg-logos/blob/master/svg/c/c--4.svg"></a></code>
         <code><a href="https://www.unity.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"></a></code>
     </div>
