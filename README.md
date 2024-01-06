@@ -17,6 +17,14 @@
 <div align="center">
     <h1 align="center">What I'm Using</h1>
     <div>
+        <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+        <code><a href="https://www.r-project.org/" target="_blank"><img height="50" src="https://github.com/detain/svg-logos/blob/master/svg/r/r-lang.svg"></a></code>
+        <code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
+        <code><a href="https://www.pytorch.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
+        <code><a href="https://www.numpy.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></a></code>
+        <code><a href="https://www.jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
+    </div>
+    <div>
         <code><a href="https://www.typescript.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></a></code>
         <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
         <code><a href="https://www.nodejs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></code>
@@ -24,16 +32,10 @@
         <code><a href="https://www.vuejs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></a></code>
     </div>
     <div>
-        <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-        <code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
-        <code><a href="https://www.pytorch.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
-        <code><a href="https://www.numpy.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></a></code>
-    </div>
-    <div>
-        <code><a href="https://www.java.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
-        <code><a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img height="50" src="https://github.com/detain/svg-logos/blob/master/svg/g/golang-1.svg"></a></code>
+        <code><a href="https://go.dev" target="_blank"><img height="50" src="https://github.com/detain/svg-logos/blob/master/svg/g/golang-1.svg"></a></code>
         <code><a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img height="50" src="https://github.com/detain/svg-logos/blob/master/svg/c/c--4.svg"></a></code>
         <code><a href="https://www.unity.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"></a></code>
+        <code><a href="https://www.gnu.org/software/bash/v" target="_blank"><img height="50" src="https://github.com/detain/svg-logos/blob/af43b58bee054f40b2c215d97b983d03b190f0d4/svg/b/bash-1.svg"></a></code>
     </div>
     <div>
         <code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
