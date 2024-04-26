@@ -22,6 +22,7 @@
         <code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
         <code><a href="https://www.pytorch.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
         <code><a href="https://www.numpy.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></a></code>
+        <code><a href="https://pandas.pydata.org/" target="_blank"><img height="50" src="https://github.com/detain/svg-logos/blob/master/svg/p/pandas.svg"></a></code>
         <code><a href="https://www.jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
     </div>
     <div>
@@ -29,7 +30,7 @@
         <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
         <code><a href="https://www.nodejs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></code>
         <code><a href="https://www.react.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
-        <code><a href="https://www.vuejs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></a></code>
+        <code><a href="https://www.php.net/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></a></code>
     </div>
     <div>
         <code><a href="https://go.dev" target="_blank"><img height="50" src="https://github.com/detain/svg-logos/blob/master/svg/g/golang-1.svg"></a></code>
@@ -38,6 +39,7 @@
         <code><a href="https://www.gnu.org/software/bash/v" target="_blank"><img height="50" src="https://github.com/detain/svg-logos/blob/af43b58bee054f40b2c215d97b983d03b190f0d4/svg/b/bash-1.svg"></a></code>
     </div>
     <div>
+        <code><a href="https://azure.microsoft.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></a></code>
         <code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
         <code><a href="https://docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
     </div>
