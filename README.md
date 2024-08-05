@@ -11,7 +11,7 @@
     <img id="preview" src="https://komarev.com/ghpvc/?username=vladudenis&color=grey">
 </p>
 <p align="center">
-    <a href="https://github.com/vladudenis"><img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladudenis&theme=transparent&hide=handlebars&layout=compact&card_width=347&langs_count=8&hide_title=true&size_weight=0.2&count_weight=0.8&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile"></a>
+    <a href="https://github.com/vladudenis"><img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladudenis&theme=transparent&hide=handlebars,css,scss,sass&layout=compact&card_width=347&langs_count=8&hide_title=true&size_weight=0.2&count_weight=0.8&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile"></a>
 </p>
 <br>
 <div align="center">
@@ -30,7 +30,8 @@
         <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
         <code><a href="https://www.nodejs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></code>
         <code><a href="https://www.react.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
-        <code><a href="https://www.php.net/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></a></code>
+        <code><a href="https://nextjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg"></a></code>
+        <code><a href="https://svelte.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sveltetechnology/sveltetechnology-icon.svg"></a></code>
     </div>
     <div>
         <code><a href="https://go.dev" target="_blank"><img height="50" src="https://github.com/detain/svg-logos/blob/master/svg/g/golang-1.svg"></a></code>
